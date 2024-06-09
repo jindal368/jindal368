@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uday Kiran Padhy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishesh Jindal
 ========================================================================================================================================
 A passionate Software Developer
 ------------------
@@ -13,13 +13,13 @@ A passionate Software Developer
 
 I've been learning/developing for 3 years, switching multiple projects. 
 I started with HTML, but really found my passion for backend development. 
-My tech stack involves Python, PHP, MySQL, Postgres, React, a few ML and Deep learning aspects and it keeps on growing. 
+My tech stack involves React , Angular , NextJs , Reactnative , Android , IOS , NodeJs ,ExpressJs  and it keeps on growing. 
 I have experience in setting up and managing Cloud Infrastructure, event driven and microservice architecture . However, this does not limit me and I'm open to working on any technology.
-I am also a very good problem Solver , you can checkout my [Leetcode Profile](https://leetcode.com/IamUday).
+I am also a very good problem Solver , you can checkout my [Leetcode Profile](https://leetcode.com/visheshjindal368).
 Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 
 *   🌍  I'm based in Hyderabad, India
-*   ✉️  You can contact me at [Gmail](mailto:kiranu941@gmail.com)
+*   ✉️  You can contact me at [Gmail](mailto:visheshjindal368@gmail.com)
 *   🧠  I'm currently learning Low level System Design , Data Structures And Algorithms
 *   🤝  I'm open to collaborating on Interseting Projects
 *   ⚡  Learning Never Stops
