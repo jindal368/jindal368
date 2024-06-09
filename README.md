@@ -32,14 +32,14 @@ Apart from coding, I also draw (bad), play chess and travel a lot with friends .
 
 ## Socials
 <p align="left">
-  <a href="https://www.github.com/UdayKiranPadhy" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/jindal368" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </picture>
 </a>
-  <a href="https://www.linkedin.com/in/uday-kiran-p-9b7b98216/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/visheshjindal368/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
